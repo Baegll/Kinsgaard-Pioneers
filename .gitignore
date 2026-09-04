@@ -1,0 +1,12 @@
+# Per-device Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temporary authentication helper created by Obsidian Git
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Obsidian trash and operating-system cache files
+.trash/
+.DS_Store
+Thumbs.db
+Desktop.ini
